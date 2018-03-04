@@ -1,0 +1,3 @@
+[submodule "labs/include/liguole/DroneMechanicalModulev"]
+	path = labs/include/liguole/DroneMechanicalModulev
+	url = https://github.com/liguole/DroneMechanicalModule.git
